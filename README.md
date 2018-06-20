@@ -5,4 +5,6 @@ URL:https://github.com/dylanaraps/neofetch
 
 Install: kcp -i neofetch
 
+![Screenshot](https://cloudup.com/ctIxQt5hkHV)
+
 
